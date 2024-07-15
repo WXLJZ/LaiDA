@@ -138,16 +138,16 @@ def main():
         print(f"Current retrieving mode is {data_params['method']}, starting encoding...")
         print("================================================================================\n")
 
-        # train_data_process(is_process_data=data_params['is_process_data'], method=data_params['method'], paths=paths,
-        #                    prefix=data_params["prefix"], inst_prefix=data_params["inst_prefix"])
-        # torch.cuda.empty_cache()
+        train_data_process(is_process_data=data_params['is_process_data'], method=data_params['method'], paths=paths,
+                           prefix=data_params["prefix"], inst_prefix=data_params["inst_prefix"])
+        torch.cuda.empty_cache()
 
         print("\n========================================")
         print("Start training...")
         print("========================================\n")
 
         # 开始训练模型
-        # run_exp(train_params)
+        run_exp(train_params)
 
         torch.cuda.empty_cache()
 

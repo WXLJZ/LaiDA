@@ -15,7 +15,7 @@
 <a id="anchor-introduction"></a>
 ## 📌 Introduction
 
-Metaphor Components Identification (MCI) contributes to enhancing machine understanding of metaphors, thereby advancing downstream natural language processing tasks. In this research, leveraging LLMs, we propose a framework, named Linguistics-aware In-context Learning with Data Augmentation (LaiDA). Specifically, utilizing ChatGPT and supervised fine-tuning, we tailor a high-quality dataset. Additionally, LaiDA incorporates a simile dataset for pre-training. A graph attention network encoder generates linguistically rich feature vectors to retrieve similar examples. Subsequently, LLM is fine-tuned with prompts that integrate linguistically similar examples on the meticulously constructed training set. 
+Metaphor Components Identification (MCI) contributes to enhancing machine understanding of metaphors, thereby advancing downstream natural language processing tasks. In this research, leveraging LLMs, a new framework is proposed, named Linguistics-aware In-context Learning with Data Augmentation (LaiDA). Specifically, utilizing ChatGPT and supervised fine-tuning, a high-quality dataset is tailored. Additionally, LaiDA incorporates a metaphor dataset for pre-training. A graph attention network encoder generates linguistically rich feature representations to retrieve similar examples. Subsequently, LLM is fine-tuned with prompts that integrate linguistically similar examples on the meticulously constructed training set. 
 
 ---
 
