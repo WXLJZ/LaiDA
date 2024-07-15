@@ -1,0 +1,10 @@
+{
+  "random_inst_train": {
+    "file_name": "instruction/random_inst_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "random_inst_train": {
+    "file_name": "instruction/random_inst_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "random_inst_valid": {
+    "file_name": "instruction/random_inst_valid.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "gnn_inst_train": {
+    "file_name": "instruction/gnn_inst_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "gnn_inst_valid": {
+    "file_name": "instruction/gnn_inst_valid.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "bert_inst_train": {
+    "file_name": "instruction/bert_inst_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "bert_inst_valid": {
+    "file_name": "instruction/bert_inst_valid.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}

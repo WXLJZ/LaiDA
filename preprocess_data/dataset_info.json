@@ -1,0 +1,10 @@
+{
+  "data_process_train": {
+      "file_name": "Instruction/train_inst.json",
+      "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+      }
+  }
+}
