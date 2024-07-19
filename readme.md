@@ -29,8 +29,7 @@ Metaphor Components Identification (MCI) contributes to enhancing machine unders
 ├── 📁 pretrain_data——the data used in the pretrain stage
 └── 📁 src——the code of method
     ├── 📁 gnnencoder——GAT encoder
-    ├── 📁 Icl——In-context learning
-    ├── 📁 llamafactory——Fine-tuning code
+    └── 📁 Icl——In-context learning
 ```
 
 ---
