@@ -2,7 +2,9 @@
 
 ---
 
-**Authors:**：anonymous authors
+**Authors:** Hongde Liu, Chenyuan He, Feiyang Meng, Changyong Niu, and Yuxiang Jia📬️
+> This paper has been accepted by the NLPCC 2024.
+
 
 ## 📋 Table of Contents
 - [Introduction](#anchor-introduction)
